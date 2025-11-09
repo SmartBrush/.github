@@ -5,14 +5,14 @@
 ## **🪮 프로젝트 개요 및 소개**
 **두피어나**는 빗으로 두피 상태를 쉽고 빠르게 진단하고, 맞춤형 두피 케어 솔루션을 제공하는 AI 기반의 두피 분석 서비스입니다. **매일 사용하는 빗**을 활용하여 별도의 복잡한 과정 없이 매일 두피 상태를 확인할 수 있도록 도와주는 서비스입니다.
 
-<img width="1920" alt="Frame 1" src="https://github.com/user-attachments/assets/35877cca-0e4a-46c1-8f1c-4bebcd8bd646" margin-top="100px"/> 
+<img width="1920" alt="개발배경" src="https://github.com/user-attachments/assets/35877cca-0e4a-46c1-8f1c-4bebcd8bd646"/> 
 </br>
 
 ---
 
 ## 💡 개발 배경 및 필요성
 ### 1) 프로젝트 개발 동기 및 목적
-<img height="500" alt="프로젝트 개발 동기 및 목적" src="https://github.com/user-attachments/assets/21a48e53-3ad1-40c7-b153-76cdf2e2be3d" />
+<img height="500" alt="프로젝트 개발 동기 및 목적" src="https://github.com/user-attachments/assets/a5fdec17-08d8-4502-902a-a4c4fb49e267" />
 
 - **건강보험심사평가원**의 조사에 따르면 국내 탈모 환자의 수는 2018년 22만 4,840명에서 2022년 24만 7,915명으로 지속적인 증가 추세로, 현대인들은 두피 염증, 비듬, 지루성 두피염 등 다양한 **두피 문제를 호소**하고 있습니다.
 - 그러나 정확한 진단을 위해 병원을 방문해야 하는 등 번거로움과 비용, 시간적 제약으로 인해 꾸준한 관리가 어려운 현실입니다.
@@ -33,24 +33,23 @@ SmartBrush에 내장된 카메라와 센서로 두피 이미지를 촬영하고,
 <table>
   <tr>
     <td>
-      <img height="300" alt="iMockup - iPhone 14" src="https://github.com/user-attachments/assets/9b433bd7-c606-4d18-9460-46675d81a85e" />
+      <img height="300" alt="Smartbrush" src="https://github.com/user-attachments/assets/7ee1de0e-c8ed-420a-a3e6-4af2d977d956" />
     </td>
     <td>
-      <img height="300" alt="3" src="https://github.com/user-attachments/assets/b0edab70-4b44-4d9f-8340-5a6ca9722f6c" />
+      <img height="300" alt="결과페이지" src="https://github.com/user-attachments/assets/01096816-8daf-403e-85a6-de463fec3efa" />
     </td>
   </tr>
 </table>
-
 
 - **🧴 두피 MBTI별 제품 추천** <br/>
 사용자의 두피 진단 결과를 한눈에 이해할 수 있도록 **두피 MBTI(트러블 폭풍형, 지성 민감형, 민감 건조형, 지성 비듬형, 건조 비듬형, 건조 트러블형, 깔끔 지성형, 밸런스형)로 유형을 분류**합니다. 분류된 MBTI 유형에 맞춰 샴푸, 린스, 트리트먼트/팩, 두피 토닉, 헤어 에센스를 **맞춤 추천**합니다.
 <table>
   <tr>
     <td>
-      <img height="300" alt="3" src="https://github.com/user-attachments/assets/83d4773b-9586-499a-87c8-5f2e7ce49849" />
+      <img height="300" alt="추천제품" src="https://github.com/user-attachments/assets/2ece0a95-8bc5-496a-83ec-c0a098cd9e14" />
     </td>
     <td>
-      <img height="300" alt="iMockup - iPhone 14" src="https://github.com/user-attachments/assets/713d2a94-5ba6-4f54-86f4-41988ebe1df0" />
+      <img height="300" alt="추천제품상세페이지" src="https://github.com/user-attachments/assets/0a4ad2a9-af41-48e3-a372-3ebf3779fde9" />
     </td>
   </tr>
 </table>
@@ -60,10 +59,10 @@ SmartBrush에 내장된 카메라와 센서로 두피 이미지를 촬영하고,
 <table>
   <tr>
     <td>
-      <img height="300" alt="iMockup - iPhone 14" src="https://github.com/user-attachments/assets/6b942a67-e820-45ba-a364-a8c3d05a17ec" />
+      <img height="300" alt="습관챌린지" src="https://github.com/user-attachments/assets/d378b2fe-542c-43e1-98d8-a61087cffe15"" />
     </td>
     <td>
-      <img height="300" alt="3" src="https://github.com/user-attachments/assets/34b74820-b9d0-4e7a-86e8-15e7fe441cb6" />
+      <img height="300" alt="질문페이지" src="https://github.com/user-attachments/assets/238d7fab-b961-4152-9d46-b298988498d3" />
     </td>
   </tr>
 </table>
@@ -73,7 +72,7 @@ SmartBrush에 내장된 카메라와 센서로 두피 이미지를 촬영하고,
 <table>
   <tr>
     <td>
-      <img height="300" alt="iMockup - iPhone 14" src="https://github.com/user-attachments/assets/f7a4e9f4-a6b2-408b-9462-e4e54e5efaa7" />
+      <img height="300" alt="월별레포트" src="https://github.com/user-attachments/assets/0d7dd15a-8a54-410e-88f8-02e0a059223c" />
     </td>
   </tr>
 </table>
@@ -83,10 +82,10 @@ SmartBrush에 내장된 카메라와 센서로 두피 이미지를 촬영하고,
 <table>
   <tr>
     <td>
-      <img height="300" alt="iMockup - iPhone 14 (1)" src="https://github.com/user-attachments/assets/d7b71e0c-8d22-4b04-ae60-c01cc0727451" />
+      <img height="300" alt="달력" src="https://github.com/user-attachments/assets/64322bd7-07c5-4a87-a875-f685342f3c2e" />
     </td>
     <td>
-      <img height="300" alt="3" src="https://github.com/user-attachments/assets/9839274c-7c10-4e7a-b101-d969bee7f95f" />
+      <img height="300" alt="달력_진단후" src="https://github.com/user-attachments/assets/a5ccddd2-267c-470e-9bfb-93a89afd9f59" />
     </td>
   </tr>
 </table>
@@ -131,7 +130,7 @@ SmartBrush에 내장된 카메라와 센서로 두피 이미지를 촬영하고,
 ---
 ## 💡 시스템 구성도
 ### 🔹 아키텍처 구조
-<img height="400" alt="Group 2085670495" src="https://github.com/user-attachments/assets/6e792214-2675-4717-b752-e212fbff4f41" />
+<img height="400" alt="아키텍처 구조" src="https://github.com/user-attachments/assets/6c26541a-9781-41a4-88ee-ba2b50ff4557" />
 
 ### 🔹 하드웨어 구조
 <table>
@@ -145,10 +144,10 @@ SmartBrush에 내장된 카메라와 센서로 두피 이미지를 촬영하고,
 </tr>
 <tr>
   <td>
-    <img height="400" alt="1" src="https://github.com/user-attachments/assets/776a91ac-c2b7-4a74-b9f8-e289f3ae5a13" />
+    <img height="400" alt="하드웨어설계도" src="https://github.com/user-attachments/assets/831afe5b-e3a9-4aea-b808-303af854e55e" />
   </td>
   <td>
-    <img height="400" alt="2" src="https://github.com/user-attachments/assets/37d5ede7-a725-4731-b54f-93fe63fde144" />
+    <img height="400" alt="Smartbrush내부" src="https://github.com/user-attachments/assets/ef77a921-1543-48dc-abf9-4821b81a224c" />
   </td>
 </tr>
 </table>
