@@ -107,16 +107,16 @@ SmartBrush에 내장된 카메라와 센서로 두피 이미지를 촬영하고,
 [![My Skills](https://skillicons.dev/icons?i=typescript,tailwind)](https://skillicons.dev)
 
 - 백엔드<br/>
-[![My Skills](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
 
 - AI<br/>
 [![My Skills](https://skillicons.dev/icons?i=python,flask)](https://skillicons.dev)
 
 - 하드웨어<br/>
-[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp)](https://skillicons.dev)
 
 - 배포 및 관리<br/>
-[![My Skills](https://skillicons.dev/icons?i=aws,radis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,redis,s3)](https://skillicons.dev)
 
 ---
 
